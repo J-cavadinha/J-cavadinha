@@ -1,5 +1,5 @@
-### Olá! Eu me chamo João Cavadinha // Hello! My name is João Cavadinha
-- 📚 Aluno de Ciência da Computação no Cefet/RJ // Computer Science student at Cefet/RJ
+### Olá! Eu me chamo João Cavadinha
+- 📚 Aluno de Ciência da Computação no Cefet/RJ
 
 
 
