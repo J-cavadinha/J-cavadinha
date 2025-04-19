@@ -1,6 +1,6 @@
 ### Hello, my name is João Marcello
 - Data & AI enthusiast
-- 📚 Aluno de Ciência da Computação no Cefet/RJ
+- Computer Science student at CEFET-RJ
 
 
 
