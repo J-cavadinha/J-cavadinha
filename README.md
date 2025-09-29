@@ -1,7 +1,5 @@
-### Hello, my name is João Marcello
-- Data & AI enthusiast
-- Computer Science student at CEFET-RJ
-
+Data & AI enthusiast, CS student (Cefet-RJ), Data Solutions Architect @ Tim Brasil
+Trying to make data easy.
 
 
 ## Contact
