@@ -1,6 +1,6 @@
-Data & AI enthusiast, CS student @ CEFET-RJ
-Data Solutions Intern Architect @ Tim Brasil
-Trying to make data acessible.
+Data & AI enthusiast, CS student @ CEFET-RJ \n
+Data Solutions Intern Architect @ Tim Brasil \n
+Trying to make data acessible. \n
 
 
 ## Contact
