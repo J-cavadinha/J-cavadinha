@@ -3,9 +3,17 @@ Data Solutions Intern Architect @ Tim Brasil \n
 Trying to make data acessible. \n
 
 
-## Contact
+## 🛠️ Tecnologias
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git,github,vscode&perline=10" />
+</div>
+
+
 <div>
 <a href="https://github.com/J-cavadinha">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-cavadinha&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=J-cavadinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula"/>
 </div>
