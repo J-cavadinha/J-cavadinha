@@ -1,5 +1,6 @@
-Data & AI enthusiast, CS student (Cefet-RJ), Data Solutions Architect @ Tim Brasil
-Trying to make data easy.
+Data & AI enthusiast, CS student @ CEFET-RJ
+Data Solutions Intern Architect @ Tim Brasil
+Trying to make data acessible.
 
 
 ## Contact
