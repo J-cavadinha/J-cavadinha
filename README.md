@@ -7,8 +7,8 @@ _Trying to make data accessible._
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=j-cavadinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="160" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-cavadinha&layout=compact&theme=dracula&hide_border=true" height="160" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=J-cavadinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="160" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-cavadinha&layout=compact&theme=dracula&hide_border=true" height="160" />
 </div>
 
 <br/>
