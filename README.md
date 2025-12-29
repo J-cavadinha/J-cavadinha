@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 Data & AI enthusiast | CS student @ **CEFET-RJ** 🎓  
-Data Solutions Intern Architect @ **TIM Brasil** 📡  
+Data Architecture Intern @ **TIM Brasil** 📡  
 _Seeking knowledge and trying to make data accessible._
 
 ---
