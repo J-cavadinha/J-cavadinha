@@ -2,7 +2,7 @@
 
 Data & AI enthusiast | CS student @ **CEFET-RJ** 🎓  
 Data Architecture Intern @ **TIM Brasil** 📡  
-_Seeking knowledge and trying to make data accessible._
+_Trying to make data accessible._
 
 ---
 
